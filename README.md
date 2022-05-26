@@ -1,2 +1,2 @@
 # movie-finder
-A Movie Finder app react to search for movies using OMDB API
+A Movie Finder app made with React to search for movies using OMDB API
